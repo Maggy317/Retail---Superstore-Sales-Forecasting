@@ -29,7 +29,8 @@ To uncover business insights that improve revenue, product performance, and regi
 -	What product strategies can boost sales & margins?
 
 ## Data Description
--	Superstore Sales Dataset (CSV format) from excel
+-	<a href=https://github.com/Maggy317/Retail---Superstore-Sales-Forecasting/blob/main>Superstore_Raw_Data</a>
+- <a href=
 
 ## Tools
 -	Microsoft Excel (data cleaning, formulas, KPI calculation)
