@@ -48,8 +48,8 @@ To uncover business insights that improve revenue, product performance, and regi
 -	<a href=https://github.com/Maggy317/Retail---Superstore-Sales-Forecasting/blob/main/Superstore_Dashboard.png/>Sales_Peformance.pngSales Forecasting & Performance</a>
 -	<a href=https://github.com/Maggy317/Retail---Superstore-Sales-Forecasting/blob/main/Superstore_Dashboard.png/>Profitability_Margins.pngProfitability & Margins</a>
 -	<a href=https://github.com/Maggy317/Retail---Superstore-Sales-Forecasting/blob/main/Superstore_Dashboard.png/>Product_Strategy_Insights.pngProduct Strategy Insights</a>
--	<a href=Region Strategy
-- Recommendations
+-	<a href=https://github.com/Maggy317/Retail---Superstore-Sales-Forecasting/blob/main/Superstore_Dashboard.png/>Regional_Strategy.pngRegion Strategy</a>
+- <a href=Recommendations
 
 ## Key Insights
 -	Monthly sales performance: November showed peak sales; February has the lowest
