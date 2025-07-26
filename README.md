@@ -45,8 +45,8 @@ To uncover business insights that improve revenue, product performance, and regi
 -	Converted data formats and ensured consistency
 
 ## Visuals
--	Sales Forecasting & Performance
--	Profitability & Margins
+-	<a href=https://github.com/Maggy317/Retail---Superstore-Sales-Forecasting/blob/main/Superstore_Dashboard.png/>Sales_Peformance.pngSales Forecasting & Performance</a>
+-	<a href=Profitability & Margins
 -	Product Strategy Insights
 -	Region Strategy
 - Recommendations
